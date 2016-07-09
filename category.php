@@ -10,7 +10,7 @@ get_header('alternativo'); ?>
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
-			<h2>CATEGORY PAGE</h2>
+			<h2>CATEGORY PAGE testes</h2>
 
 		<?php if ( have_posts() ) : ?>
 
